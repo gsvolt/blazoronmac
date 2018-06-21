@@ -10,6 +10,16 @@ a simple repo to track steps, techniques, etc. to get developing with blazor on 
 1. dotnet new --install "Microsoft.AspNetCore.Blazor.Templates"
 2. mkdir microsoft
 3. dotnet new blazor
+4. dotnet run
+
+
+```
+Run into this error:
+dotnet run
+myApp/Program.cs(7,21): error CS0017: Program has more than one entry point defined. Compile with /main to specify the type that contains the entry point. [/Users/gsvolt/microsoft/microsoft.csproj]
+
+The build failed. Please fix the build errors and run again.
+```
 
 
 
