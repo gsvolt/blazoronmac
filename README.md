@@ -4,6 +4,8 @@ a simple repo to track steps, techniques, etc. to get developing with blazor on 
 
 ### Steps
 
+- Install VS Code
+- Install razor+ extension. Ref [3]
 - Install [.NET Core SDK](https://www.microsoft.com/net/core)
     Basically download a .dmg and run it on your system
 - Open a terminal and type 
@@ -27,3 +29,4 @@ The build failed. Please fix the build errors and run again.
 
 1. [.NET Core SDK](https://www.microsoft.com/net/core)
 2. [dotnet templates](https://dotnetnew.azurewebsites.net/Search/blazor)
+3. [razor+ vscode extension](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus)
